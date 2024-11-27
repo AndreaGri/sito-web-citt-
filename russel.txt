@@ -1,0 +1,8 @@
+copiare index.html 
+importare le foto su github nell'IMG
+cread pag html
+creare dropdown 
+selezionabile con le tre mappe di milano
+-area superfice 
+-area metropolitana
+-area treni
